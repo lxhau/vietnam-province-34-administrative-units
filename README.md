@@ -76,6 +76,10 @@ Dữ liệu có thể được sử dụng cho nhiều mục đích khác nhau n
   * Cập nhật hệ thống master data hành chính cho các doanh nghiệp, tổ chức.
   * Nghiên cứu về cơ cấu và sự thay đổi của các đơn vị hành chính tại Việt Nam.
 
+### Nguồn Tham Khảo
+
+  * [Danh sách 3321 xã, phường, đặc khu chính thức của 34 tỉnh thành Việt Nam](https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/danh-sach-3321-xa-phuong-dac-khu-chinh-thuc-cua-34-tinh-thanh-viet-nam-tra-cuu-3321-xa-phuong-dac-k-726625-221776.html) - Thư Viện Pháp Luật
+
 ### Đóng góp và Phản hồi
 
 Chúng tôi hoan nghênh mọi ý kiến đóng góp, phản hồi hoặc đề xuất cải thiện về bộ dữ liệu này. Nếu bạn phát hiện bất kỳ thông tin nào chưa chính xác hoặc có gợi ý để làm cho bộ dữ liệu hữu ích hơn, xin vui lòng liên hệ hoặc tạo một [issue/pull request trên GitHub](LIÊN KẾT GITHUB CỦA BẠN NẾU CÓ).
@@ -94,7 +98,7 @@ Mặc dù chúng tôi đã nỗ lực hết sức để đảm bảo tính chín
 
 ### Introduction
 
-This is the official dataset of administrative units at the provincial and commune (ward/township/commune) levels in Vietnam, standardized and updated following the restructuring and merger of administrative units according to government resolutions, expected to officially come into operation on July 1, 2025.
+This is the official dataset of administrative units at the provincial and commune (ward/township/commune) levels in Vietnam, standardized and updated following the restructuring and merger of administrative units according to government resolutions, expected to officially come into operation on July 01, 2025.
 
 This dataset provides detailed information for **34 provinces/cities** that have undergone mergers and restructuring.
 
@@ -167,6 +171,10 @@ This data can be used for various purposes such as:
   * Analyzing demographic and economic data by region.
   * Updating administrative master data systems for businesses and organizations.
   * Researching the structure and changes of administrative units in Vietnam.
+
+### References
+
+  * [List of 3321 official communes, wards, special zones of 34 provinces and cities in Vietnam](https://thuvienphapluat.vn/phap-luat/ho-tro-phap-luat/danh-sach-3321-xa-phuong-dac-khu-chinh-thuc-cua-34-tinh-thanh-viet-nam-tra-cuu-3321-xa-phuong-dac-k-726625-221776.html) - Thư Viện Pháp Luật (Legal Library)
 
 ### Contributions and Feedback
 
